@@ -1,2 +1,2 @@
-# Web-scrappin
+# Web-scraping
 just a basic scrapper
