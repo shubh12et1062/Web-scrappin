@@ -1,0 +1,1 @@
+In this project i am going to scrape is one of the Ad’s detailed page on OLX.Suppose I am going to build a price comparison system for the used BOOKS available on OLX. For the purpose I need to have data available in my database. For the purpose I need to have data available periodically in my local database.
